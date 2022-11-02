@@ -1,0 +1,26 @@
+{
+  "name": "kafka-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yalm/kafka-nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yalm/kafka-nodejs/issues"
+  },
+  "homepage": "https://github.com/Yalm/kafka-nodejs#readme",
+  "devDependencies": {
+    "@types/node": "^18.11.9",
+    "typescript": "^4.8.4"
+  },
+  "dependencies": {
+    "kafkajs": "^2.2.2"
+  }
+}
